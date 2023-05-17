@@ -20,4 +20,4 @@ def scan_bug1(i):
             a = url+'?'+payload
             return 1,a
     return 0,None
-# print(scan_bug1('http://res.artah.cn:18181'))
+print(scan_bug1('http://test.com'))
